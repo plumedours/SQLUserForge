@@ -1,4 +1,7 @@
-﻿# SQLUserForge
+# SQLUserForge
+
+## 🇫🇷 Français
+*(Version française du README – voir plus bas pour l’anglais)*
 
 **SQLUserForge** est une application Windows Forms moderne permettant de créer rapidement des **logins** et **users SQL Server**, d’assigner des rôles, et de simplifier l’administration quotidienne des bases de données.
 
@@ -20,12 +23,12 @@
 
 ## 📸 Captures d’écran
 
-*(Ajouter ici vos captures d’écran de l’application)*
+![SQLUserForge FR](Resources/sqluserforge_fr.png)
 
 ## 🛠 Prérequis
 
 - Windows 10/11
-- .NET 6 ou plus récent
+- .NET 9 ou plus récent
 - SQL Server (toutes éditions supportées)
 
 ## 🚀 Installation
@@ -59,7 +62,8 @@ MIT License – libre d’utilisation et de modification.
 
 ---
 
-# SQLUserForge
+## 🇬🇧 English
+*(English version of the README – see above for French)*
 
 **SQLUserForge** is a modern Windows Forms application that allows you to quickly create **SQL Server logins** and **users**, assign roles, and simplify daily database administration.
 
@@ -81,12 +85,12 @@ MIT License – libre d’utilisation et de modification.
 
 ## 📸 Screenshots
 
-*(Add your application screenshots here)*
+![SQLUserForge EN](Resources/sqluserforge_en.png)
 
 ## 🛠 Requirements
 
 - Windows 10/11
-- .NET 6 or later
+- .NET 9 or later
 - SQL Server (all editions supported)
 
 ## 🚀 Installation
