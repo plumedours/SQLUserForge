@@ -1,0 +1,58 @@
+{
+  "app_title": "SQLUserForge — Création d'utilisateur SQL",
+  "menu_file": "Fichier",
+  "menu_about": "À propos",
+  "menu_quit": "Quitter",
+  "menu_language": "Langue",
+  "menu_lang_en": "Anglais",
+  "menu_lang_fr": "Français",
+
+  "label_instance": "Instance SQL :",
+  "label_default_db": "Base par défaut :",
+
+  "grp_instance_title": "Instance SQL",
+  "grp_auth_title": "Authentification administrateur (pour créer le login/user)",
+  "rb_auth_windows": "Windows (Intégrée)",
+  "rb_auth_sql": "SQL (login/mot de passe)",
+  "ph_admin_login": "Login admin (sa, etc.)",
+  "ph_admin_password": "Mot de passe admin",
+
+  "grp_db_roles": "Rôles de base de données",
+  "grp_srv_roles": "Rôles serveur",
+
+  "grp_login_title": "Nouveau login & utilisateur",
+  "label_login_name": "Nom du login :",
+  "label_password": "Mot de passe :",
+
+  "btn_validate": "Valider",
+  "btn_quit": "Quitter",
+
+  "loading_discovering": "Découverte des instances SQL…",
+
+  "about_title": "À propos",
+  "about_text": "SQLUserForge\n\nCréation rapide de logins & users SQL.\nVersion 1.2",
+  "about_link": "Créé par Maxime Bory",
+
+  "errors_instance_required": "Veuillez saisir ou sélectionner une instance SQL.",
+  "errors_auth_required": "Veuillez fournir un login/mot de passe SQL admin, ou choisir l'authentification Windows.",
+  "errors_db_required": "Veuillez sélectionner la base par défaut.",
+  "errors_login_required": "Le nom du login et le mot de passe sont requis.",
+
+  "success_title": "Succès",
+  "success_body": "Utilisateur créé/assigné avec succès.",
+
+  "confirm_title": "Confirmer la création de l'utilisateur",
+  "confirm_validate": "Valider",
+  "confirm_cancel": "Annuler",
+
+  "confirm_instance": "Instance",
+  "confirm_admin_auth": "Authentification admin",
+  "auth_windows": "Windows (Intégré)",
+  "auth_sql": "SQL",
+  "confirm_login_to_create": "Login à créer",
+  "confirm_password": "Mot de passe",
+  "confirm_default_db": "Base par défaut",
+  "confirm_db_roles": "Rôles de base de données",
+  "confirm_srv_roles": "Rôles serveur",
+  "none": "(aucun)"
+}

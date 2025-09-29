@@ -1,0 +1,58 @@
+{
+  "app_title": "SQLUserForge — SQL User Creation",
+  "menu_file": "File",
+  "menu_about": "About",
+  "menu_quit": "Quit",
+  "menu_language": "Language",
+  "menu_lang_en": "English",
+  "menu_lang_fr": "French",
+
+  "label_instance": "SQL Instance:",
+  "label_default_db": "Default database:",
+
+  "grp_instance_title": "SQL Instance",
+  "grp_auth_title": "Administrator authentication (to create login/user)",
+  "rb_auth_windows": "Windows (Integrated)",
+  "rb_auth_sql": "SQL (login/password)",
+  "ph_admin_login": "Admin login (sa, etc.)",
+  "ph_admin_password": "Admin password",
+
+  "grp_db_roles": "Database roles",
+  "grp_srv_roles": "Server roles",
+
+  "grp_login_title": "New login & user",
+  "label_login_name": "Login name:",
+  "label_password": "Password:",
+
+  "btn_validate": "Confirm",
+  "btn_quit": "Quit",
+
+  "loading_discovering": "Discovering SQL instances…",
+
+  "about_title": "About",
+  "about_text": "SQLUserForge\n\nCreate SQL logins & users quickly.\nVersion 1.2",
+  "about_link": "Created by Maxime Bory",
+
+  "errors_instance_required": "Please enter or select a SQL instance.",
+  "errors_auth_required": "Please provide SQL admin login and password, or choose Windows Authentication.",
+  "errors_db_required": "Please select the default database.",
+  "errors_login_required": "Login name and password are required.",
+
+  "success_title": "Success",
+  "success_body": "User successfully created/assigned.",
+
+  "confirm_title": "Confirm user creation",
+  "confirm_validate": "Confirm",
+  "confirm_cancel": "Cancel",
+
+  "confirm_instance": "Instance",
+  "confirm_admin_auth": "Admin authentication",
+  "auth_windows": "Windows (Integrated)",
+  "auth_sql": "SQL",
+  "confirm_login_to_create": "Login to create",
+  "confirm_password": "Password",
+  "confirm_default_db": "Default database",
+  "confirm_db_roles": "Database roles",
+  "confirm_srv_roles": "Server roles",
+  "none": "(none)"
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLUserForge", "SQLUserForge.csproj", "{F31D8848-4652-4E8E-9127-888403B99A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31D8848-4652-4E8E-9127-888403B99A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31D8848-4652-4E8E-9127-888403B99A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31D8848-4652-4E8E-9127-888403B99A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31D8848-4652-4E8E-9127-888403B99A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F831185-943D-4809-AD18-45842504C5E2}
+	EndGlobalSection
+EndGlobal
