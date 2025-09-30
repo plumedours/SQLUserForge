@@ -1,4 +1,7 @@
-﻿# SQLUserForge
+# SQLUserForge
+
+## 🇫🇷 Français
+*(Version française du README – voir plus bas pour l’anglais)*
 
 ## 🇫🇷 Français
 *(Version française du README – voir plus bas pour l’anglais)*
