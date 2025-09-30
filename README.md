@@ -1,5 +1,8 @@
 ﻿# SQLUserForge
 
+## 🇫🇷 Français
+*(Version française du README – voir plus bas pour l’anglais)*
+
 **SQLUserForge** est une application Windows Forms moderne permettant de créer rapidement des **logins** et **users SQL Server**, d’assigner des rôles, et de simplifier l’administration quotidienne des bases de données.
 
 ## ✨ Fonctionnalités
@@ -20,19 +23,20 @@
 
 ## 📸 Captures d’écran
 
-*(Ajouter ici vos captures d’écran de l’application)*
+![SQLUserForge FR](Resources/sqluserforge_fr.png)
 
 ## 🛠 Prérequis
 
 - Windows 10/11
-- .NET 6 ou plus récent
+- .NET 9 ou plus récent
 - SQL Server (toutes éditions supportées)
 
 ## 🚀 Installation
 
 1. Télécharger la dernière version depuis la section **Releases**.
-2. Lancer le programme d’installation ou l’exécutable.
-3. Démarrer l’application depuis le menu Démarrer ou le raccourci bureau.
+2. Lancer l'application en ouvrant l’exécutable SQLUserForge.exe.
+
+/!\ Nécessite les droits administrateur /!\
 
 ## 📖 Utilisation
 
@@ -49,9 +53,17 @@
 - Français 🇫🇷
 - Anglais 🇬🇧
 
-## 👤 Auteur
+---
 
-Créé par [**Maxime Bory**](https://github.com/plumedours)
+## 📢 Auteur
+Développé par **Maxime Bory**.  
+GitHub : [https://github.com/plumedours](https://github.com/plumedours)  
+
+
+### 💖 Me soutenir
+Appréciez-vous mon travail ? Vous pouvez m’encourager en [m’offrant un café sur Ko-fi](https://ko-fi.com/borymaxime).
+Merci beaucoup pour votre soutien ! ☕✨
+
 
 ## 📜 Licence
 
@@ -59,7 +71,8 @@ MIT License – libre d’utilisation et de modification.
 
 ---
 
-# SQLUserForge
+## 🇬🇧 English
+*(English version of the README – see above for French)*
 
 **SQLUserForge** is a modern Windows Forms application that allows you to quickly create **SQL Server logins** and **users**, assign roles, and simplify daily database administration.
 
@@ -81,12 +94,12 @@ MIT License – libre d’utilisation et de modification.
 
 ## 📸 Screenshots
 
-*(Add your application screenshots here)*
+![SQLUserForge EN](Resources/sqluserforge_en.png)
 
 ## 🛠 Requirements
 
 - Windows 10/11
-- .NET 6 or later
+- .NET 9 or later
 - SQL Server (all editions supported)
 
 ## 🚀 Installation
@@ -110,9 +123,17 @@ MIT License – libre d’utilisation et de modification.
 - French 🇫🇷
 - English 🇬🇧
 
-## 👤 Author
+---
 
-Created by [**Maxime Bory**](https://github.com/plumedours)
+## 📢 Author
+Developed by **Maxime Bory**.  
+GitHub: [https://github.com/plumedours](https://github.com/plumedours)  
+
+
+### 💖 Support me
+Enjoying my work? You can support me by [buying me a coffee on Ko-fi](https://ko-fi.com/borymaxime).
+Thank you so much for your support! ☕✨
+
 
 ## 📜 License
 
